@@ -15,3 +15,5 @@ So the whole Hybrid Model is working like:
 
 ## Example of Hybrid Model prediction:
 
+<img src="https://github.com/PiotrLehmann/Traffic-Sign-Recognition/blob/72abdb9a744a916123db88c80fbb09b883917a6b/Example.png" width="1000">
+
