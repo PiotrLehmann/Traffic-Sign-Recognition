@@ -26,6 +26,12 @@ NOTE: I recommend using those files on kaggle with your own Datsets, or even bet
 - [https://www.kaggle.com/code/piotrlehmannml/all-possible-models-testing-in-traffic-sign-det](https://www.kaggle.com/code/piotrlehmannml/all-possible-models-testing-in-traffic-sign-det)
 - [https://www.kaggle.com/code/piotrlehmannml/full-hybrid-model-wrapper](https://www.kaggle.com/code/piotrlehmannml/full-hybrid-model-wrapper)
 
+## Datasets download links:
+- [Final test dataset (Edited dashcam footage of a friend)](https://www.kaggle.com/datasets/piotrlehmannml/final-test)
+- [Polish Traffic Signs Dataset (Cropped)](https://www.kaggle.com/datasets/kasia12345/polish-traffic-signs-dataset)
+- [Polish Traffic Sings Dataset (Whole Photos)](https://www.kaggle.com/datasets/chriskjm/polish-traffic-signs-dataset)
+- [Signs in Yolo format (For detection)](https://www.kaggle.com/datasets/valentynsichkar/traffic-signs-dataset-in-yolo-format)
+
 
 
 
